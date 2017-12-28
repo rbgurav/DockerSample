@@ -1,0 +1,6 @@
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\bin\Debug\dotnetapp.exe.config
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\bin\Debug\dotnetapp.exe
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\bin\Debug\dotnetapp.pdb
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\obj\Debug\dotnetapp.csprojResolveAssemblyReference.cache
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\obj\Debug\dotnetapp.exe
+c:\users\rgurav\documents\visual studio 2015\Projects\dotnetapp\dotnetapp\obj\Debug\dotnetapp.pdb
